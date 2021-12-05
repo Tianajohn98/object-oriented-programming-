@@ -1,0 +1,25 @@
+{
+  "name": "object-oriented-programming-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tianajohn98/object-oriented-programming-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tianajohn98/object-oriented-programming-/issues"
+  },
+  "homepage": "https://github.com/Tianajohn98/object-oriented-programming-#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
